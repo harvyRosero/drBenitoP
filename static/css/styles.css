@@ -1,0 +1,157 @@
+#logo-main{
+    height: 4rem;
+}
+#top{
+    color: white;
+    background-image: radial-gradient(circle at 6.76% 50%, #ff9d81 0, #ff9183 10%, #ff8585 20%, #ff7988 30%, #ff6b8c 40%, #ff5c90 50%, #f64e95 60%, #ec429d 70%, #e039a5 80%, #d234ae 90%, #c234b8 100%);
+}
+
+#img-carousel{
+    height: 40rem;
+}
+
+#section-1-row{
+    background-image: radial-gradient(circle at 6.76% 50%, #ff9d81 0, #ff9183 10%, #ff8585 20%, #ff7988 30%, #ff6b8c 40%, #ff5c90 50%, #f64e95 60%, #ec429d 70%, #e039a5 80%, #d234ae 90%, #c234b8 100%);
+
+}
+
+#section-1-title{
+    margin-top: 3%;
+    background-color: #00000080;
+    color: white;
+    
+}
+
+#texto{
+    height: 7rem;
+    background-color: #ffffff80;
+}
+
+#enlace{
+    color: white;
+}
+
+#img-section-1{
+    background-image: url('../../static/images/section1/rostro.png');
+    -moz-background-size: 100% 100%; /*Firefox 3.6*/
+    -o-background-size: 100% 100%; /*opera*/
+    -webkit-background-size: 100% 100%; /*Safari*/
+    background-size: 100% 100%; /*estandar css3*/
+}
+
+
+#img-section-2{
+    background-image: url('../../static/images/section1/cuerpo.jpg');
+    -moz-background-size: 100% 100%; /*Firefox 3.6*/
+    -o-background-size: 100% 100%; /*opera*/
+    -webkit-background-size: 100% 100%; /*Safari*/
+    background-size: 100% 100%; /*estandar css3*/
+}
+
+#img-section-3{
+    background-image: url('../../static/images/section1/gluteos.png');
+    -moz-background-size: 100% 100%; /*Firefox 3.6*/
+    -o-background-size: 100% 100%; /*opera*/
+    -webkit-background-size: 100% 100%; /*Safari*/
+    background-size: 100% 100%; /*estandar css3*/
+}
+
+#img-section-4{
+    background-image: url('../../static/images/section1/senos.jfif');
+    -moz-background-size: 100% 100%; /*Firefox 3.6*/
+    -o-background-size: 100% 100%; /*opera*/
+    -webkit-background-size: 100% 100%; /*Safari*/
+    background-size: 100% 100%; /*estandar css3*/
+}
+
+#img-section{
+    -moz-background-size: 100% 100%; /*Firefox 3.6*/
+    -o-background-size: 100% 100%; /*opera*/
+    -webkit-background-size: 100% 100%; /*Safari*/
+    background-size: 100% 100%; /*estandar css3*/
+}
+#enlace-footer{
+    text-decoration: none;
+    color: white;
+}
+
+#etiqueta{
+    background-color: rgb(255, 163, 163);   
+ 
+}
+
+#etiqueta a{
+    color: white;
+    text-decoration: none;
+}
+
+#etiqueta a:hover{
+    color: rgb(172, 54, 54);
+}
+
+
+#esconder{
+    visibility: hidden;
+}
+
+#section-3{
+    background-image: radial-gradient(circle at 6.76% 50%, #ff9d81 0, #ff9183 10%, #ff8585 20%, #ff7988 30%, #ff6b8c 40%, #ff5c90 50%, #f64e95 60%, #ec429d 70%, #e039a5 80%, #d234ae 90%, #c234b8 100%);
+
+}
+
+#img-test{
+    height: 25rem;
+}
+
+#carousel-1{
+    
+    background-image: radial-gradient(circle at 50% 50%, #fcffff 0, #f5ffff 16.67%, #eaf6f4 33.33%, #dadada 50%, #c9bfc2 66.67%, #bcabb3 83.33%, #b29eaa 100%);
+}
+
+#carousel-2{
+    background-image: radial-gradient(circle at -20.44% 43.84%, #ffffff 0, #e9ffff 25%, #b7e9f6 50%, #85c9de 75%, #5cafcc 100%);
+}
+
+#carousel-3{
+    background-image: radial-gradient(circle at 115.08% 50%, #fff1ff 0, #ffe2ff 16.67%, #ffceff 33.33%, #ffb4fd 50%, #e09cf0 66.67%, #c38be7 83.33%, #aa81e3 100%);
+}
+
+#info-carousel{
+    margin:8rem;
+}
+
+#col-nosotros{
+    margin-top: 5rem;
+}
+
+
+@media screen and (max-width: 450px) {
+    #logo-main{
+        height: 3rem;
+    }
+    #img-carousel{
+        height: 25rem;
+    }
+
+    #col-2{
+        margin-top: 2rem;
+    }
+    #info-col{
+        margin-top: 0;
+        padding: block;
+    }
+
+    #info-carousel{
+        margin:1rem;
+        margin-top:3rem;
+
+    }
+
+    #col-nosotros{
+        margin-right: 0rem;
+    }
+    #col-nosotros{
+        margin-top: 0rem;
+    }
+}
+    
